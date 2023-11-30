@@ -12,3 +12,5 @@ only you need to make sure excel take in certain format that excel recoginze the
 and fill the other details as same as possible on line wise 
 
 Warning do not change the column values , the code wont take the detils 
+
+final you can see the export1.vcf file 
